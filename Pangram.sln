@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pangram", "Pangram.pyproj", "{72A5E68A-2C49-45C4-9FED-4851A27E9CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A5E68A-2C49-45C4-9FED-4851A27E9CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A5E68A-2C49-45C4-9FED-4851A27E9CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AB8028D-6F68-49E4-A5DD-D662C73DF5B5}
+	EndGlobalSection
+EndGlobal
